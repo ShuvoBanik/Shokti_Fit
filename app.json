@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Shokti Fit",
+    "slug": "shokti-fit",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "shoktifit",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#101510",
+    "plugins": ["expo-router", "expo-secure-store"],
+    "android": {
+      "package": "com.nutrilife.shoktifit",
+      "backgroundColor": "#101510"
+    },
+    "experiments": { "typedRoutes": false }
+  }
+}
